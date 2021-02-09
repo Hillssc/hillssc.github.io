@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Steven Hills GITHub internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**About** I am currently employed at Assiniboine Community College where I teach in the School of Agriculture & Environment as the Senior Instructor in the GIS Environmental Technology Program. In addition to my on-campus & distance learners, I plan, design and deliver several workshops for educators, specialists and students in the areas of GIS, GPS, and outcome-based learning in relation to technology. I am responsible to establish my own pedagogy for each course including Learning Outcomes and Performance Elements and the successful implementation. Each course has extensive lecture and lab components. I also serve as instructor and mentor to each of our GIS students as they complete their Capstone Projects. I work closely with the other instructors to ensure an integrated and blended learning environment across the programs.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
