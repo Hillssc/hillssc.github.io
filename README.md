@@ -1,12 +1,9 @@
 ## Portfolio Landing Page Template
+<img src="images/ACCGIS_2twitter.png?raw=true"/>
 
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
-
-<img src="images/demo.gif?raw=true"/>
 
 ### Installation
 
